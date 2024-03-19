@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ASHMIRC
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning Artificial intelligence and Data Science ,python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data structures, Data Science ,python
 - 📫 How to reach me 'ashmirajaselvan08@gmail.com'
 - 😄 Pronouns: keep. move ..still the destiny
 - ⚡ Fun fact: 
@@ -15,7 +14,7 @@
 
 <h1 align="center">Hi 👋, I'm ASHMI R C</h1>
 <h3 align="center">I AM A ENTHUSIASTIC LEARNER FROM INDIA.</h3>
-<image align="right" width="400" src="https://github.com/shruthika77/shruthika77/blob/main/Face%20ID%20glitch%20effect.gif">
+<image align="right" width="400" src="https://i.pinimg.com/564x/48/8d/1b/488d1b44562330d8b6d3c8b619711b1f.jpg">
 - 🌱 I’m currently learning python, problem solving skills & Data structures
 
 - 📫 How to reach me *ashmirajaselvan08@gmail.com*
