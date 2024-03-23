@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ASHMIRC
-- 👀 I’m interested in Data science
+- 👀 I’m interested in data structures,frontend development
 - 🌱 I’m currently learning Data structures, Data Science ,python
 - 📫 How to reach me 'ashmirajaselvan08@gmail.com'
 - 😄 Pronouns: keep. move ..still the destiny
